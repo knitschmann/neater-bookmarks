@@ -1,4 +1,22 @@
-# Neater Bookmarks
+# Neater Bookmarks Fork
+
+
+A fork of the Neater Bookmarks Chrome Extension.
+
+1) Based on the extension of https://github.com/evanshultz/neater-bookmarks https://chrome.google.com/webstore/detail/neater-bookmarks/ofgjggbjanlhbgaemjbkiegeebmccifi?hl=it
+
+2) Applied double tab open bugfix from https://github.com/knitschmann/neater-bookmarks/commit/e8f5f5439b12ecac13976aeb48890a126ddaa6b1
+
+3) Applied UI overhaul from https://github.com/angusjune/bookmarkie https://chrome.google.com/webstore/detail/bookmarkie/ahlphbdcaacfhkiajebghpngknafklbj
+
+4) Personal Touch: Disable Search for cleaner look
+
+;TLDR - Thank you evan.schultz, r2r2r20, angusjune !!!
+
+
+
+
+# Old Readme
 
 A neat bookmarks tree popup extension for Google Chrome. Licensed under the [MIT License](http://www.opensource.org/licenses/mit-license.php).
 
