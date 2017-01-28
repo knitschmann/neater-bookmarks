@@ -1,8 +1,8 @@
 body{
 	direction: __MSG_@@bidi_dir__;
 	font: menu;
-	color: #000;
-	background-color: #eee;
+	color: #151515;
+	background-color: #fafafa;
 	margin: 0;
 	padding: 0;
 	cursor: default;
